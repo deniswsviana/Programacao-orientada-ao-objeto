@@ -151,7 +151,7 @@ public class Main {
 
 import java.util.Scanner;
 
-public class Main {
+public class Lista_resp {
 	
 	    
 	public static void main(String[] args) {
